@@ -7,6 +7,10 @@ Welcome to **Treasure Island!** Your mission is to find the hidden treasure. Wil
 2. If you choose the right path, you'll reach a **lake**.  
 3. Decide whether to **wait** for a boat or **swim** across.  
 4. If you make it to the island, you'll face **three doors** – **red, blue, or yellow**.  
-5. Only one door leads to victory! Choose wisely.  
+5. Only one door leads to victory! Choose wisely.
+
+## 🎨 ASCII Art Credit  
+The treasure map ASCII art was sourced from [ASCII Art Archive](https://ascii.co.uk/art/treasure).  
+
 
 
